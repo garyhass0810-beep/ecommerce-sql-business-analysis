@@ -29,6 +29,11 @@ Top products by revenue, top products within each category, above-average perfor
 
 ### 4. Order & Operational Analysis
 Order-to-shipment and order-to-delivery time, longest deliveries, carrier performance, lifecycle-stage duration, and highest-value customers.
+## Database Schema
+
+The diagram below shows the structure of the e-commerce database and the relationships between the 16 tables used in the analysis.
+
+![E-Commerce Database Schema](schema.png)
 
 ## SQL Skills Demonstrated
 - `INNER JOIN` and `LEFT JOIN`
