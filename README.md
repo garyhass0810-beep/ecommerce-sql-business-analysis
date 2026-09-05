@@ -1,7 +1,7 @@
 # E-Commerce Business & Product Analysis | MySQL
 
 ## Project Overview
-This project analyzes a transactional e-commerce database using MySQL to answer 20 business questions across customer behavior, revenue performance, product performance, and order operations.
+This project analyzes a transactional e-commerce database using MySQL to answer multiple business questions across customer behavior, revenue performance, product performance, and order operations.
 
 The goal was not only to produce working SQL queries, but to show the analytical reasoning behind them. Each question in the SQL file includes a short **Approach** explaining why the query was structured that way and, where relevant, a business **Insight** from the result.
 
