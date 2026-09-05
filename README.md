@@ -33,7 +33,7 @@ Order-to-shipment and order-to-delivery time, longest deliveries, carrier perfor
 
 The diagram below shows the structure of the e-commerce database and the relationships between the 16 tables used in the analysis.
 
-![E-Commerce Database Schema](schema.png)
+![E-Commerce Database Schema](Schema.png)
 
 ## SQL Skills Demonstrated
 - `INNER JOIN` and `LEFT JOIN`
